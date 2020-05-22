@@ -16,10 +16,10 @@ for i in range(n):
 
 Calculated Euclidean distance, i.e., $$\sqrt(d_{i}^{2} - d_{j}^{2})$$
 
-<img src="docs/advanced-data-mining/HW1/Euclidean.png?raw=true"/>
+<img src="/Euclidean.png?raw=true"/>
 
 ### 3. Calculated Manhattan chi
 
 Calculated Manhattan distance, i.e., $$|d_{i} - d_{j}|$$
 
-<img src="docs/advanced-data-mining/HW1/Manhattan.png?raw=true"/>
+<img src="/Manhattan.png?raw=true"/>
