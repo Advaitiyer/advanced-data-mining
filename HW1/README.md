@@ -14,12 +14,12 @@ for i in range(n):
 
 ### 2. Calculate Euclidean chi
 
-Calculated Euclidean distance, i.e., $\sqrt(d_{i}^{2} - d_{j}^{2})$ 
+Calculated Euclidean distance, i.e., $$\sqrt(d_{i}^{2} - d_{j}^{2})$$
 
 <img src="docs/advanced-data-mining/HW1/Euclidean.png?raw=true"/>
 
 ### 3. Calculated Manhattan chi
 
-Calculated Manhattan distance, i.e., $|d_{i} - d_{j}|$
+Calculated Manhattan distance, i.e., $$|d_{i} - d_{j}|$$
 
 <img src="docs/advanced-data-mining/HW1/Manhattan.png?raw=true"/>
