@@ -1,31 +1,25 @@
-## This can be your internal website page / project page
+## Evaluating bounds for Euclidean and Manhattan distances
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Description:** Comparing the variation in the bounds when the distance between points is calculated through Euclidean (L2-norm) and Manhattan (L1-norm) formula.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Generate random points
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
+Generated n, d-dimensional arrays using NumPy's random number generator. 
 
 ```javascript
-if (isAwesome){
-  return true
-}
+initialize empty array
+for i in range(n):
+  append into array random d-dimensional random array
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 2. Calculate Euclidean chi
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Calculated Euclidean distance, i.e., $\sqrt(d_{i}^{2} - d_{j}^{2})$ 
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<img src="docs/advanced-data-mining/HW1/Euclidean.png?raw=true"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 3. Calculated Manhattan chi
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Calculated Manhattan distance, i.e., $|d_{i} - d_{j}|$
+
+<img src="docs/advanced-data-mining/HW1/Manhattan.png?raw=true"/>
