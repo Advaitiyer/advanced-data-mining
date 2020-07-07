@@ -13,8 +13,8 @@ for i in range(n):
 
 ### 2. Calculate Euclidean distance <img src="https://latex.codecogs.com/gif.latex?\sqrt{d_{i}^{2}-d_{j}^{2}}"/> 
 
-<img src="/Euclidean.png?raw=true"/>
+<img src="/advanced-data-mining/Euclidean.png?raw=true"/>
 
 ### 3. Calculate Manhattan distance <img src="https://latex.codecogs.com/gif.latex?|d_{i}-d_{j}|"/>
 
-<img src="/Manhattan.png?raw=true"/>
+<img src="/advanced-data-mining/Manhattan.png?raw=true"/>
