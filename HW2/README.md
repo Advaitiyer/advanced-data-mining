@@ -10,7 +10,7 @@ Cleaned continuous text by splitting it into sentences, removing "\n", and heade
 
 Built dictionary of words and sorted them in descending order. Identified top 500 words.
 
-<img src="/advaitiyer.github.io/blob/master/assets/images/advanced-data-mining/HW2.png?raw=true"/>
+<img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/advanced-data-mining/HW2.png?raw=true"/>
 
 ### 3. Vectorization
 
