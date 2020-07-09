@@ -47,7 +47,7 @@ Setup train/test as 80/20 split.
 
 ### 3. Calculate optimal number of hash functions
 
-Result: <img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/analytical-data-mining/HW4.png?raw=true"/>
+Result: <img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/advanced-data-mining/HW4.png?raw=true"/>
 
 ### 4. Training
 
@@ -59,4 +59,4 @@ Trained the bitarray through the training set of only spams.
 
 Result: Accurately predicted the spams with a FPR of 4%. 
 
-<img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/analytical-data-mining/false-positive.png?raw=true"/>
+<img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/advanced-data-mining/false-positive.png?raw=true"/>
