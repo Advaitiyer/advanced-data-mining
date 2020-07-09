@@ -10,13 +10,13 @@ For the further explanation, we represent <img src="https://latex.codecogs.com/g
 
 **2. Linear regression**
 
-Result: <img src="https://github.com/Advaitiyer/advaitiyer.github.io/tree/master/assets/images/advanced-data-mining/linear-regression.png?raw=true"/>
+Result: <img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/advanced-data-mining/linear-regression.png?raw=true"/>
 
 **3. Ridge regression**
 
 Through ridge regression, the linear regression's RHS is L2-regularized as <img src="https://latex.codecogs.com/gif.latex?\hat{\beta^{ridge}}=argmin\lVert{y-XB}\rVert_{2}^{2}+\lambda\lVert{B}\rVert_{2}^{2}"/>
 
-Result: <img src="https://github.com/Advaitiyer/advaitiyer.github.io/tree/master/assets/images/advanced-data-mining/ridge-regression.png?raw=true"/>
+Result: <img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/advanced-data-mining/ridge-regression.png?raw=true"/>
 
 **4. Lasso regression**
 
@@ -24,7 +24,7 @@ Through ridge regression, the linear regression's RHS is L1-regularized as <img 
 
 Result: The top features are as follows
 
-<img src="https://github.com/Advaitiyer/advaitiyer.github.io/tree/master/assets/images/advanced-data-mining/lasso-features.png?raw=true"/>
+<img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/advanced-data-mining/lasso-features.png?raw=true"/>
 
 **5. Degree and laplacian matrix**
 
@@ -34,16 +34,16 @@ Next, the degree matrix is computed. It is defined as the diagonal matrix <img s
 
 The Laplacian matrix is calculated as <img src="https://latex.codecogs.com/gif.latex?L=D-A"/>.
 
-Result: <img src="https://github.com/Advaitiyer/advaitiyer.github.io/tree/master/assets/images/advanced-data-mining/degree-laplacian.png?raw=true"/>
+Result: <img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/advanced-data-mining/degree-laplacian.png?raw=true"/>
 
 **6. Eigenvector and eigenvalue computation**
 
 The eigenvectors and eigenvalues of <img src="https://latex.codecogs.com/gif.latex?L"/> are calculated, and the top <img src="https://latex.codecogs.com/gif.latex?'K'"/> eigenvalues are identified.
 
-Result: <img src="https://github.com/Advaitiyer/advaitiyer.github.io/tree/master/assets/images/advanced-data-mining/eigenvecs-vals.png?raw=true"/>
+Result: <img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/advanced-data-mining/eigenvecs-vals.png?raw=true"/>
 
 **7. Spectral clustering**
 
 K-means is run on <img src="https://latex.codecogs.com/gif.latex?(\widetilde{X},K)"/> to recover the actual <img src="https://latex.codecogs.com/gif.latex?'X'"/>
 
-Result: <img src="https://github.com/Advaitiyer/advaitiyer.github.io/tree/master/assets/images/advanced-data-mining/spectral-clustering.png?raw=true"/>
+Result: <img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/advanced-data-mining/spectral-clustering.png?raw=true"/>
