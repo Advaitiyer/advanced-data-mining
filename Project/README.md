@@ -1,3 +1,5 @@
+## Analysis of co-purchased products on Amazon
+
 Large sized graphs are difficult to visualize, as they are computationally very expensive to plot. In such cases, we have to rely on algorithms which help us identify various communities and clusters in the graph, which are difficult to visualize too.
 
 The motivation behind this project was to study the methodology behind how product recommender systems provide relevant product recommendations to users. Most of the Machine Learning methods possess a naïve assumption of falling in a distribution, and it is not possible to use such methods for graph-based recommender systems, where there may be no distribution which can accurately represent the dataset.
